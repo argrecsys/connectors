@@ -1,4 +1,8 @@
 # Argument Connectors
+![version](https://img.shields.io/badge/version-1.0-blue)
+![license](https://img.shields.io/badge/license-Apache_2.0-brightgreen)
+[![DOI](https://zenodo.org/badge/390401437.svg)](https://zenodo.org/badge/latestdoi/390401437)
+
 Revising and jointly considering references on argument mining, we have developed a two-level taxonomy of argument relations, and have gathered a relatively large set of linguistic connectors classified with the taxonomy. The taxonomy and the set of connectors, referred as an "argument relation lexicon", are made accessible here in English and Spanish.
 
 ## Resources
