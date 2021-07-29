@@ -13,7 +13,7 @@ Created by <a href="http://arantxa.ii.uam.es/~cantador/" target="_blank">Iv&aacu
 Created on Jul 28, 2021
 
 ## License
-This project is licensed under the terms of the <a href="https://github.com/argrecsys/connectors/blob/main/README.md">Apache License 2.0</a>.
+This project is licensed under the terms of the <a href="https://github.com/argrecsys/connectors/blob/main/LICENSE">Apache License 2.0</a>.
 
 ## Acknowledgements
 This work was supported by the Spanish Ministry of Science and Innovation (PID2019-108965GB-I00).
