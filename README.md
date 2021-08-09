@@ -5,6 +5,43 @@
 
 Revising and jointly considering references on argument mining, we have developed a two-level taxonomy of argument relations, and have gathered a relatively large set of linguistic connectors classified with the taxonomy. The taxonomy and the set of connectors, referred as an "argument relation lexicon", are made accessible here in English and Spanish.
 
+## Argument relation taxonomy and lexicon
+Categories and subcategories of the proposed argument type taxonomy, and some categorized examples of English and Spanish argument connectors from the built lexicon. Words in brackets are optional.
+
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Subcategory</th>
+      <th>Primary intent</th>
+      <th>Num.</th>
+      <th>English connectors Examples</th>
+      <th>Num.</th>
+      <th>Spanish connector Examples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Cause</td>
+      <td>Condition</td>
+      <td>qualifier</td>
+      <td>34</td>
+      <td>if [ever/so], in case of/that, on the condition [that], unless</td>
+      <td>35</td>
+      <td>si [alguna vez/es así], en caso de/que con/bajo la condición de [que], a no ser que</td>
+    </tr>
+    <tr>
+      <td>Reason</td>
+      <td>support</td>
+      <td>14</td>
+      <td>because [of], due to, since given that, based on, forasmuch as</td>
+      <td>21</td>
+      <td>porque, ya que, debido a [que], pues, dado que, basándose en [que], puesto que</td>
+    </tr>
+    
+  </tbody>
+</table>
+
 ## Resources
 The following files are located in the <a href="https://github.com/argrecsys/connectors/tree/main/resources">resources</a> folder:
 - Comprehensive two-level taxonomy of argumentative relations
